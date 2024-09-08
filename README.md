@@ -1,0 +1,2 @@
+# Zagreus
+Personal discord bot
